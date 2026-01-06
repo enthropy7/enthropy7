@@ -1,7 +1,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enthropy7&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enthropy7&theme=2077) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enthropy7&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enthropy7&theme=2077) 
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-000?style=for-the-badge\&logo=go\&logoColor=white)
