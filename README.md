@@ -13,8 +13,8 @@
 ![Cassandra](https://img.shields.io/badge/Cassandra-000?style=for-the-badge\&logo=apachecassandra\&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-000?style=for-the-badge\&logo=clickhouse\&logoColor=white)
 
-<a href="https://t.me/accforwork143">
-  <img src="https://img.shields.io/badge/Telegram-@accforwork143-000?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/memtrace">
+  <img src="https://img.shields.io/badge/Telegram-@memtrace-000?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/DM_for-TOX%20%2F%20JABBER-000?style=for-the-badge" />
 
