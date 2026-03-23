@@ -46,7 +46,7 @@ If you’re building something real — ping me.
 
 ## contact
 
-* Telegram: **@accforwork143** (DM for Tox/Jabber)
+* Telegram: **@memtrace** (DM for Tox/Jabber)
 
 <sub>PS: if you like my work — DM me a good word.</sub>
 
