@@ -12,13 +12,7 @@ and my stack:
   <img src="https://skillicons.dev/icons?i=rust,go,ts,js,react,wordpress,php,postgres,cassandra,redis,kafka,linux,nginx&theme=dark" />
 </div>
 
-## work / collab
-
-Open to full-time *remote* work. 
-
 ## contact
 
 * Telegram: **@memtrace** (DM for SimpleX)
-
-<sub>PS: if you like my work — DM me a good word.</sub>
 
