@@ -9,7 +9,7 @@ R&D, leading, systems design, any kind of architect/consulting work. fullstack d
 and my stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,ts,js,react,wordpress,php,postgres,cassandra,redis,kafka,linux,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,go,ts,php,linux&theme=dark" />
 </div>
 
 ## contact
