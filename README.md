@@ -1,4 +1,4 @@
-"In Your mercy cut off my enemies,And destroy all those who afflict my soul; For I am Your servant." — Psalm 143:12
+"In Your mercy cut off my enemies, And destroy all those who afflict my soul; For I am Your servant." — Psalm 143:12
 ----
 
 
